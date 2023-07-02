@@ -1,0 +1,27 @@
+[
+  {
+     "logo": "https://raw.githubusercontent.com/RecepGulten/UniversityData/main/sivascumhuriyet.png",
+     "name": "Sivas Cumhuriyet Üniversitesi",
+     "city": "Sivas",
+     "located": "Merkez",
+     "rector": "Alim Yıldız",
+     "faculties": "18"
+  },
+  {
+      "logo": "https://raw.githubusercontent.com/RecepGulten/UniversityData/main/manisacelalbayar.png",
+      "name": "Manisa Celal Bayar Üniversitesi",
+       "city": "Manisa",
+      "located": "Yunus Emre",
+       "rector": "Ahmet Ataç",
+       "faculties": "16"
+  },
+  {
+      "logo": "https://raw.githubusercontent.com/RecepGulten/UniversityData/main/sinopüniversitesi.png",
+      "name": "Sinop Üniversitesi",
+      "city": "Sinop",
+      "located": "Merkez",
+      "rector": "Nihat Dalgın",
+      "faculties": "9"
+   }
+]
+ 
